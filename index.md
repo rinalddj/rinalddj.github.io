@@ -54,9 +54,9 @@ Here are the most important skills in getting a basic understanding with SQL:
 * Start with an understanding of how to pull data from a table. If you ever have to build a Business Intelligence report containing financial information, you’ll have to do something similar. Oracle Cloud ERP, SAP S4HANA, and a host of other ERPs all have similar report building tools. If you can gain an understanding in building a report in one, this knowledge will translate to other Business Intelligence software.
 *	I think Microsoft Access is a great way to acquire this basic understanding. Similar to learning VBA in Excel, if you learn how Access is supposed to work, it can be a lot easier to learn SQL by drawing parallels between building queries using Access’s assistance and doing so by coding it yourself. 
 *	I recommend getting started in Access with the four lessons below. In these lessons, you’ll build a database, build a sample table, and build a query. 
-        *	How to build a MS Access database
-        *	How to build a sample table in your database 
-        *	How to query off of your sample table
+  *	How to build a MS Access database
+  *	How to build a sample table in your database 
+  *	How to query off of your sample table
 *	These lessons build a solid foundation in query structure that will make a smooth transition to coding SQL from scratch.
 
 ```markdown
