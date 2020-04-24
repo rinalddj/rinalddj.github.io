@@ -51,7 +51,7 @@ Here are three free tutorials:
 Microsoft Access can also be a great teacher when it comes to learning query structure. Once you get the hang of building queries with Access’s assistance in Design View, switch over to SQL view and take a stab at creating the queries from scratch. 
 
 Here are the most important skills in getting a basic understanding with SQL:
-*Start with an understanding of how to pull data from a table. If you ever have to build a Business Intelligence report containing financial information, you’ll have to do something similar. Oracle Cloud ERP, SAP S4HANA, and a host of other ERPs all have similar report building tools. If you can gain an understanding in building a report in one, this knowledge will translate to other Business Intelligence software.
+* Start with an understanding of how to pull data from a table. If you ever have to build a Business Intelligence report containing financial information, you’ll have to do something similar. Oracle Cloud ERP, SAP S4HANA, and a host of other ERPs all have similar report building tools. If you can gain an understanding in building a report in one, this knowledge will translate to other Business Intelligence software.
 
 ```markdown
 Syntax highlighted code block
