@@ -34,6 +34,25 @@ For a crash course in these four concepts, see my lesson on 4 Easy Lessons to Ma
 
 For a more comprehensive approach, I recommend [this](https://www.udemy.com/ultimate-excel-programmer/) Udemy course. 
 
+#### SQL
+
+SQL is one of the most important skills you can learn right now. In the age of big data, nearly all the data you used is accessed using SQL. 
+
+SQL deals with databases and tables. If you’re pulling data from somewhere, SQL is probably being used. Nearly all accounting software utilizes SQL in some way. Whether you’re searching for journal entries or building Business Intelligence reports, SQL is what makes this engine run. SQL is also one of the easiest programming languages to learn. 
+
+Here are three free tutorials:
+
+[Codecademy](https://www.codecademy.com/learn/learn-sql) is one of the most popular.
+
+[W3 Schools](https://www.w3schools.com/sql/) has a good SQL tutorial as well.
+
+[SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial) has a great interactive tutorial.
+
+Microsoft Access can also be a great teacher when it comes to learning query structure. Once you get the hang of building queries with Access’s assistance in Design View, switch over to SQL view and take a stab at creating the queries from scratch. 
+
+Here are the most important skills in getting a basic understanding with SQL:
+*Start with an understanding of how to pull data from a table. If you ever have to build a Business Intelligence report containing financial information, you’ll have to do something similar. Oracle Cloud ERP, SAP S4HANA, and a host of other ERPs all have similar report building tools. If you can gain an understanding in building a report in one, this knowledge will translate to other Business Intelligence software.
+
 ```markdown
 Syntax highlighted code block
 
