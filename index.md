@@ -1,12 +1,38 @@
 ## Welcome to Useful Programming for Finance & Accounting
 
-You can use the [editor on GitHub](https://github.com/rinalddj/rinalddj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Why Improve Technical Skills?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The accounting world is changing. Whether it’s new technology or full automation, accounting and finance professionals can no longer rely on just their accounting knowledge to get ahead. Accountants must acquire a multi-disciplined skillset where accounting and technology intersect. Learning debits and credits isn’t enough. I advocate for a “utility infielder” skillset, where accountants can prepare and analyze financial statements but also design databases or automate their team’s daily tasks.
+
+If you’re a recent accounting graduate, and even a CPA, you’ll still most likely be swamped in grunt work. There’s no better way to shine as a recent graduate than wowing those above you with your technical chops. They may not ask you for help with tough technical accounting questions, but technological skills can go a long way when it comes to turning heads at your job.
+
+Stand out from the crowd in interviews and on your resume. Instead of just listing the journal entries you prepare or the audit work you’ve done, programming can give you tangible skills and projects for you to talk about. You’ll be able to turn heads with your ability to streamline processes, ensure data integrity, and save time. What hiring manager could overlook a candidate with those skills?
+
+Most agree that technological skills are becoming increasingly important for accountants but most offer little guidance aside from Learn how to code or Learn SQL. The goal of this website is provide a one-stop shop for finance & accounting professionals who want to improve their technical skills. My guide provides resources that tell you what you need to learn and where to find it.
+
+#### VBA
+
+A lot of accountants have asked me how they can get started programming. Should I start with C+, Python, HTML? While it’s possible to learn programming with any language, if you’re an accountant, I always recommend VBA. Why? Because you know how Excel works. You know its functionality and what it’s supposed to look like. When learning beginner programming concepts like objects, variables, and loops, you’ll be able to practice and see your results in Excel as opposed to working through an Interactive Development Environment in another language like Python or C#. You’ll also be able to think up a bunch of practice projects as you learn. That’d be harder to do with a different language when you don’t know its full capabilities.
+
+But VBA is obsolete! 
+
+Yes, VBA is an old language. But it’s still a vital part of Excel and if you’re using MS Office products on a daily basis, there are tons of opportunities for automating your work. Other languages would be harder for the average accountant to implement into their day-to-day job, whereas after a few lessons of VBA you’ll see the impact immediately.
+
+I can record macros and edit the VBA. Is that the same thing?
+
+While useful, I recommend learning enough VBA to be able to code macros from scratch. Using only recorded macros leaves a lot of the awesome VBA functionality off the table (specifically loops and variables).
+
+Again, if you have advanced Excel skills, you’ll be able to pick up VBA in no time. Knowledge of how a lot of Excel’s tougher formulas work is enough to get the ball rolling towards coding VBA from scratch.
+
+Once you get the hang of VBA, transitioning to a more popular programming language, such as Python or Java, will be a lot easier. Think of programming, not as learning a library of code, but as a mindset. Once the mindset is cultivated, filling in the code gaps is the easy part.
+
+I work with a great programmer who says that the key to learning any program language is learning loops, variables, arrays, and if statements. 
+
+For a crash course in these four concepts, see my lesson on 4 Easy Lessons to Master VBA.
+
+For a more comprehensive approach, I recommend [this](https://www.udemy.com/ultimate-excel-programmer/) Udemy course. 
 
 ```markdown
 Syntax highlighted code block
